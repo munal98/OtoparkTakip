@@ -1,0 +1,16 @@
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\bin\Debug\Otopark Takip.exe.config
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\bin\Debug\Otopark Takip.exe
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\bin\Debug\Otopark Takip.pdb
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark Takip.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark_Takip.frm1AnaSayfa.resources
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark_Takip.frm3AraçOtoparkYerleri.resources
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark_Takip.Properties.Resources.resources
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark Takip.csproj.GenerateResource.cache
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark Takip.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark Takip.exe
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark Takip.pdb
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark_Takip.frm2AraçOtoparkKaydı.resources
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark_Takip.frm5Marka.resources
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark_Takip.frm6Seri.resources
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark_Takip.frm4AraçOtoparkÇıkışı.resources
+C:\Users\MERT\source\repos\Otopark Takip\Otopark Takip\obj\Debug\Otopark_Takip.frmSatis.resources
